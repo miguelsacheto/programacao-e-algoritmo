@@ -5,7 +5,7 @@
 * Data: 19/03/2026
 * Autor: Miguel Silva Sacheto e Noah Calixto Moi
 * Descrição: 
-*Ler um número inteiro. Verificar e exibir se o número é primo.
+*Ler vários números até que seja digitado um número negativo. Calcular e exibir a soma desses números.
 */
 #include <iostream>
 
